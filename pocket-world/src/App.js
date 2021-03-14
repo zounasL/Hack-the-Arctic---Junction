@@ -50,8 +50,6 @@ export default function App() {
     setAvgCo2(co2Sum/co2s.length);
 
     setInterval(function(){
-      console.log(temperatureInteraction);
-
       setCo2(parseFloat(utils.getCo2()) + ( co2Interaction * 20));
       setTemperature(parseFloat(utils.getTemperature() + ( temperatureInteraction)));
       setCo2Factor(Math.floor(Math.random() * (co2Max - co2Min + 1) + co2Min));
