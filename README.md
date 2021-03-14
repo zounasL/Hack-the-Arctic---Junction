@@ -22,10 +22,10 @@ The impact of this solution is that it highlights the environmental aspects for 
 Interactive web-based app 
 
 ## Brainstorm
-![brainstrom](/img/images/brainstorm.png)
+![brainstrom](https://github.com/zounasL/Hack-the-Arctic_Junction-2021/blob/main/img/brainstrom.PNG)
 
 ## Mock
-![Mock](/img/images/mock.png)
+![Mock](https://github.com/zounasL/Hack-the-Arctic_Junction-2021/blob/main/img/mock.jpg)
 
 ## Demo site
-![Demo](/img/images/demo.png)
+![Demo](https://github.com/zounasL/Hack-the-Arctic_Junction-2021/blob/main/img/demo.PNG)
