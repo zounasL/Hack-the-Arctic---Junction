@@ -3,6 +3,7 @@
 # Challenge: Map the Arctic
 ------
 
+Arctic Fox brings the issues of climate change closer to you. Happenings are updated through real life data and your mission s to help the spieces survive. Remember that fixing one problem may cause another. Adjusting the levels of temperature, CO2 and sea level are key issues. 
 
 # Description
 ------
