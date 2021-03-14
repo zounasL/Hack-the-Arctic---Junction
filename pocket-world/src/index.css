@@ -1,0 +1,74 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.ice-img {
+  top: -12px;
+  height: 300px;
+  position: relative;
+}
+
+.forest-img {
+  left: -30px;
+  height: 300px;
+  position: relative;
+}
+.people-img {
+  left: 3px;
+  height: 300px;
+  position: relative;
+  top: -120px;
+}
+.sea-img {
+  left: -107px;
+  height: 300px;
+  position: relative;
+  top: -49px;
+}
+.whale-img {
+  left: -319px;
+  height: 100px;
+  position: relative;
+  top: -37px;
+}
+.mursu-img {
+  left: 289px;
+  height: 100px;
+  position: absolute;
+  top: 7px
+}
+.polar-img {
+  left: 76px;
+  height: 100px;
+  position: absolute;
+  top: 124px;
+}
+.bambi-img {
+  left: -242px;
+  height: 100px;
+  position: relative;
+  top: -37px;
+}
+.human-img {
+  left: 100px;
+  height: 80px;
+  position: absolute;
+  top: 7px;
+}
+.human2-img {
+  left: 210px;
+  height: 80px;
+  position: absolute;
+  top: -82px;
+}
+
